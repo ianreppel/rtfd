@@ -2,7 +2,7 @@
 Licence
 #######
 
-Copyright 2014-2024 Ian Reppel.
+Copyright 2014-2025 Ian Reppel.
 All rights reserved.
 
 This file, as are all files on the public repository `rtfd <https://github.com/ianreppel/rtfd>`_, is part of **Oracle SQL & PL/SQL Optimization for Developers**.

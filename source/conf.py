@@ -15,7 +15,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Oracle SQL & PL/SQL Optimization for Developers'
-copyright = u'2014-2024, Ian Reppel'
+copyright = u'2014-2025, Ian Reppel'
 version = '3.1'
 release = '3.1.0'
 exclude_patterns = []
@@ -44,7 +44,7 @@ texinfo_documents = [
 epub_title = 'Oracle SQL & PL/SQL Optimization for Developers'
 epub_author = u'Ian Reppel'
 epub_publisher = u'Ian Reppel'
-epub_copyright = u'2014-2024, Ian Reppel'
+epub_copyright = u'2014-2025, Ian Reppel'
 epub_exclude_files = ['search.html']
 
 intersphinx_mapping = {'http://docs.python.org/': None}
