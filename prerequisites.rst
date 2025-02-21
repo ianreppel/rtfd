@@ -1,4 +1,4 @@
-﻿.. _prereqs:
+.. _prereqs:
 
 ****************************
 System and User Requirements

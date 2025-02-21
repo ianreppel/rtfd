@@ -2,10 +2,10 @@
 Licence
 #######
 
-Copyright 2014-2024 Ian Hellström.
+Copyright 2014-2024 Ian Reppel.
 All rights reserved.
 
-This file, as are all files on the public repository `rtfd <https://github.com/ianhellstrom/rtfd>`_, is part of **Oracle SQL & PL/SQL Optimization for Developers**.
+This file, as are all files on the public repository `rtfd <https://github.com/ianreppel/rtfd>`_, is part of **Oracle SQL & PL/SQL Optimization for Developers**.
 
 **Oracle SQL & PL/SQL Optimization for Developers** is a free documentation project: you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

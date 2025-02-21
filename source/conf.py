@@ -15,7 +15,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Oracle SQL & PL/SQL Optimization for Developers'
-copyright = u'2014-2024, Ian Hellström'
+copyright = u'2014-2024, Ian Reppel'
 version = '3.1'
 release = '3.1.0'
 exclude_patterns = []
@@ -27,24 +27,24 @@ htmlhelp_basename = 'OraclePLSQLOptimizationforDevelopersdoc'
 latex_elements = { }
 latex_documents = [
   ('index', 'OraclePLSQLOptimizationforDevelopers.tex', 'Oracle SQL \& PL/SQL Optimization for Developers Documentation',
-   u'Ian Hellström', 'manual'),
+   u'Ian Reppel', 'manual'),
 ]
 
 man_pages = [
     ('index', 'oracleplsqloptimizationfordevelopers', 'Oracle SQL & PL/SQL Optimization for Developers Documentation',
-     ['Ian Hellström'], 1)
+     ['Ian Reppel'], 1)
 ]
 
 texinfo_documents = [
   ('index', 'OraclePLSQLOptimizationforDevelopers', 'Oracle SQL & PL/SQL Optimization for Developers Documentation',
-   u'Ian Hellström', 'OraclePLSQLOptimizationforDevelopers', 'One line description of project.',
+   u'Ian Reppel', 'OraclePLSQLOptimizationforDevelopers', 'One line description of project.',
    'Miscellaneous'),
 ]
 
 epub_title = 'Oracle SQL & PL/SQL Optimization for Developers'
-epub_author = u'Ian Hellström'
-epub_publisher = u'Ian Hellström'
-epub_copyright = u'2014-2024, Ian Hellström'
+epub_author = u'Ian Reppel'
+epub_publisher = u'Ian Reppel'
+epub_copyright = u'2014-2024, Ian Reppel'
 epub_exclude_files = ['search.html']
 
 intersphinx_mapping = {'http://docs.python.org/': None}

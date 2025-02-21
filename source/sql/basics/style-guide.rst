@@ -155,7 +155,7 @@ At the very least the coding standards should tell you how to name objects and f
 That includes, but is not limited to, standard prefixes for all database objects, notation standards (e.g. keywords in upper case, application-specific identifiers in lower case, underscores between words in identifiers), maximum line length, line break rules, indentation spaces for code blocks, and default headers.
 If your IDE supports IntelliSense or something similar, then  `Hungarian notation`_ may be overkill, but for complex programs it may be beneficial to prefix the logical (Apps Hungarian) or the physical (Systems Hungarian) type to avoid collisions, although the former is often to be preferred to the latter.
 
-An example of a comprehensive set of coding guidelines for both SQL and PL/SQL is by `Ian Hellström`_.
+An example of a comprehensive set of coding guidelines for both SQL and PL/SQL is by `Ian Reppel`_.
 The document's source is in Markdown and `publicly available`_ in order to make it easy for you to adapt it to your (organization's) needs.
 `Steven Feuerstein's`_  and `topcoder's`_ best practices and programming standards focus mainly on PL/SQL.
 
@@ -167,7 +167,7 @@ The document's source is in Markdown and `publicly available`_ in order to make 
 .. _`Hungarian notation`: http://programmers.stackexchange.com/a/39874
 .. _`Steven Feuerstein's`: http://www.toadworld.com/platforms/oracle/w/wiki/8245.plsql-standards.aspx
 .. _`topcoder`: http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf
-.. _`Ian Hellström`: https://ianhellstrom.org/guidelines.html
-.. _`publicly available`: https://github.com/ianhellstrom/html-docs
+.. _`Ian Reppel`: https://ianreppel.org/guidelines.html
+.. _`publicly available`: https://github.com/ianreppel/html-docs
 .. _`Steven Feuerstein's`: http://www.toadworld.com/platforms/oracle/w/wiki/8245.plsql-standards.aspx
 .. _`topcoder's`: http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf
