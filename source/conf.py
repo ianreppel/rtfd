@@ -47,4 +47,4 @@ epub_publisher = u'Ian Reppel'
 epub_copyright = u'2014-2025, Ian Reppel'
 epub_exclude_files = ['search.html']
 
-intersphinx_mapping = {'http://docs.python.org/': None}
+intersphinx_mapping = {'python': ('https://docs.python.org/3', None)}
